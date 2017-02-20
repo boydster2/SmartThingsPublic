@@ -19,9 +19,9 @@
  *
  */
 definition(
-	name: "superState",
-	namespace: "mmaxwell",
-	author: "Mike Maxwell",
+	name: "superStateButton",
+	namespace: "boydster2",
+	author: "Eric Boyd",
 	description: "Device state capture, replay and edit tool",
 	category: "Convenience",
 	iconUrl: "https://s3.amazonaws.com/smartapp-icons/ModeMagic/Cat-ModeMagic.png",
